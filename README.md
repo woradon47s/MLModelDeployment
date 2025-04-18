@@ -6,12 +6,10 @@ This project demonstrates how to train, serve, and test machine learning models 
 1. **Classification Model (Iris Dataset)**
 * Model: `RandomForestClassifier`
 * Output: Class prediction and confidence score
-* Input shape: 4 numeric features
 
 2. **Regression Model (Housing Dataset)**
 * Model: `RandomForestRegressor` inside a scikit-learn Pipeline
 * Output: Price prediction
-* Input shape: 20 numeric/categorical features (after one-hot encoding)
 
 ## 🛠 Setup Steps
 
